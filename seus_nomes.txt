@@ -2,3 +2,4 @@ Insira seu nome aqui:
 
 1 - Jefferson
 2 - Lucas Conradi
+3 - Julie 
